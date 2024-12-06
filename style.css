@@ -53,7 +53,7 @@ body,
   z-index: 2;
 }
 
-#scores {
+.scores {
   display: flex;
   justify-content: space-between;
 }
