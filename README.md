@@ -8,3 +8,5 @@
 ### 3. 上線工具：
 - 靜態網頁： Github Pages
 - 資料庫：MongoDB Atlas
+# 未完成：
+- 玩家總分排行
